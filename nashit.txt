@@ -1,0 +1,7 @@
+	1. Malware -> virus to adware to spyware to ransomware
+	2. Phishing -> links, fall for the attack
+	3. Man IN the Middle (MIM attack)
+	4. DDoS Attack (load balancer)
+	5. SQL Injections (scripts)
+	6. Cross site
+This is NashitThis is GEC,BuxarThis is GEC,Buxar
