@@ -1,0 +1,5 @@
+roll,name,age,branch
+1,pratyasha,17,ECE
+2,pragati,19,ECE
+3,shrey,22,CSE
+4,raushan,20,ECE
